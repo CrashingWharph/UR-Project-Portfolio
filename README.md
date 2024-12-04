@@ -1,7 +1,7 @@
-#Count-Down-Timer
-2024 and Counting
+# Portfolio Site
 
-#Click the link (below) to see previe
+# Click the link (below) to see Portfolio
+https://crashingwharph.github.io/UR-Project-Portfolio/
 
-#Project info
+# Project info
 html, css, javascript.
