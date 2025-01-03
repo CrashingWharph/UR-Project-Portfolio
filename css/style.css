@@ -313,7 +313,8 @@ header nav a:hover {
 #sample_blog_section {
     width: 100%;
     display: flex;
-    margin: 0 0 70px 0;
+    height: 60vh;
+    margin: 0 0 50px 0;
 }
 
   .sample-row {
