@@ -226,7 +226,7 @@ header nav a:hover {
 }
 
 /*------------------------------------------------------------------------------------------*/
-/* Technical skill services x6 [ bootstrap ] [2] */
+/* Technical skill services [ bootstrap ] [2] */
 /*------------------------------------------------------------------------------------------*/
 
 /* parent 1 */
@@ -326,7 +326,6 @@ header nav a:hover {
     background-color: #fff;
     flex-direction: column;
     text-align: center;
-    margin: 20px 10px 0 10px;
     padding: 10px 10px 10px 10px;
     align-items: center;
     justify-content: center;
